@@ -1,7 +1,14 @@
 document.getElementById("sort").addEventListener("click", sort);
-function sort() {
+document.getElementById("addnumber").addEventListener("click", addnumber);
+
+var pushIndex = 0;
+
+function getValues() {
     const valueStore = document.querySelectorAll('.container')[0];
-    const valueBoxes = Array.from(valueStore.children);
+    return Array.from(valueStore.children);
+}
+function sort() {
+    valueBoxes = getValues();
     const sortedValues = [];
 
     valueBoxes.forEach((input) => {
@@ -13,6 +20,10 @@ function sort() {
     valueBoxes.forEach((input) => {
         input.value = sortedValues.shift();
     })
-
 }
 
+function addnumber() {
+    valueBoxes = getValues();
+    valueBoxes[pushIndex].value = Math.floor(Math.random() * 100);
+    pushIndex = (pushIndex + 1) % valueBoxes.length;
+}
