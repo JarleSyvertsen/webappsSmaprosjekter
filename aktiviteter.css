@@ -1,5 +1,5 @@
 body {
-    background: blue;
+    background: steelblue;
 }
 
 .boxtext {
@@ -16,8 +16,26 @@ body {
     gap: 30px;
     justify-content: left;
     align-content: center;
+    padding-bottom: 30px;
 }
 
+.number-box {
+    background: white;
+    width: 100px;
+    height: 100px;
+    left: 50px;
+    bottom: 50px;
+}
+
+.boxtext {
+    background: white;
+    width: 100px;
+    height: 100px;
+    left: 50px;
+    bottom: 50px;
+    text-align: center;
+
+}
 .containerbutton > button {
     display: flex;
     gap: 30px;
