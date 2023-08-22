@@ -6,8 +6,10 @@ document.querySelector('.test').addEventListener('click', function() {
         return aValue - bValue;
     });
 
-    const containerParent = containers[0].parentNode;
+    const bodyElement = document.querySelector('body');
+    const containerButton = document.querySelector('.containerbutton');
+
     sortedContainers.forEach(container => {
-        containerParent.appendChild(container); // Re-append the containers in sorted order
+        bodyElement.insertBefore(container, containerButton); // Insert each container before the containerbutton
     });
 });
