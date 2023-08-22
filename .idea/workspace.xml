@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d50cb2-1635-4d0c-99c4-a95043606322" name="Changes" comment="Numbers">
-      <change afterPath="$PROJECT_DIR$/addnumbers.js" afterDir="false" />
+    <list default="true" id="64d50cb2-1635-4d0c-99c4-a95043606322" name="Changes" comment="fungerende addnumbers.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addnumbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/addnumbers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addnumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/addnumbers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692686099331</updated>
-      <workItem from="1692686100779" duration="3160000" />
+      <workItem from="1692686100779" duration="3389000" />
     </task>
     <task id="LOCAL−00001" summary="Start">
       <created>1692686278115</created>
@@ -96,7 +95,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1692687508278</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="fungerende addnumbers.">
+      <created>1692689325549</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1692689325549</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +112,7 @@
     <MESSAGE value="Vakker CSS." />
     <MESSAGE value="Addnumbers" />
     <MESSAGE value="Numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Numbers" />
+    <MESSAGE value="fungerende addnumbers." />
+    <option name="LAST_COMMIT_MESSAGE" value="fungerende addnumbers." />
   </component>
 </project>

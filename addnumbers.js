@@ -6,9 +6,11 @@ function sort() {
     valueBoxes.forEach((input) => {
         sortedValues.push(input.value);
     })
+    sortedValues.sort(function(a, b) {return a - b;});
 
+    console.log(sortedValues);
     valueBoxes.forEach((input) => {
-        input.value = sortedValues.pop();
+        input.value = sortedValues.shift();
     })
 
 }
