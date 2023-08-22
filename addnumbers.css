@@ -1,6 +1,5 @@
 body {
-    background: cornflowerblue;
-    height: 100%;
+    background: steelblue;
 }
 
 .box {
@@ -12,6 +11,7 @@ body {
 }
 
 .container {
+    padding-top: 15%;
     display: flex;
     gap: 30px;
     justify-content: center;
