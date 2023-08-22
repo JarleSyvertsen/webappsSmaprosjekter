@@ -27,6 +27,7 @@ body {
 .buttonContainer > button {
     top: 50px;
     border-radius: 10px;
+    width: 100px;
 }
 
 body {
