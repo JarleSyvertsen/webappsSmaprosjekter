@@ -6,7 +6,7 @@ body {
 
 .container {
     display: flex;
-    gap: 30px;
+    gap: 10px;
     justify-content: left;
     align-content: center;
     padding-bottom: 30px;
@@ -22,8 +22,9 @@ body {
     background: white;
     width: 800px;
     height: 50px;
-    text-align: center;
-    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 .containerbutton > button {
