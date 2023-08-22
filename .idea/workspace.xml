@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d50cb2-1635-4d0c-99c4-a95043606322" name="Changes" comment="Addnumbers">
+    <list default="true" id="64d50cb2-1635-4d0c-99c4-a95043606322" name="Changes" comment="Numbers">
+      <change afterPath="$PROJECT_DIR$/addnumbers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/addnumbers.css" beforeDir="false" afterPath="$PROJECT_DIR$/addnumbers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/addnumbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/addnumbers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +19,7 @@
       <list>
         <option value="package.json" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692686099331</updated>
-      <workItem from="1692686100779" duration="1388000" />
+      <workItem from="1692686100779" duration="3160000" />
     </task>
     <task id="LOCAL−00001" summary="Start">
       <created>1692686278115</created>
@@ -89,7 +90,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1692687070408</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Numbers">
+      <created>1692687508278</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1692687508278</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +106,7 @@
     <MESSAGE value="Start" />
     <MESSAGE value="Vakker CSS." />
     <MESSAGE value="Addnumbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Addnumbers" />
+    <MESSAGE value="Numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Numbers" />
   </component>
 </project>
