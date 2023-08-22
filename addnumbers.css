@@ -1,18 +1,17 @@
 body {
-    background: cornflowerblue;
-    height: 100%;
+    background: steelblue;
 }
 
 .box {
     background: white;
     width: 100px;
     height: 100px;
-    left: 50px;
-
+    text-align: center;
+    font-size: 50px;
 }
 
 .container {
-
+    padding-top: 15%;
     display: flex;
     gap: 30px;
     justify-content: center;
@@ -29,3 +28,4 @@ body {
 .buttonContainer > button {
     top: 50px;
 }
+
