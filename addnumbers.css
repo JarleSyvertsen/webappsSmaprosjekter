@@ -4,10 +4,11 @@ body {
 
 .box {
     background: white;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     text-align: center;
     font-size: 50px;
+    border-radius: 10px;
 }
 
 .container {
@@ -25,6 +26,7 @@ body {
 
 .buttonContainer > button {
     top: 50px;
+    border-radius: 10px;
 }
 
 body {
