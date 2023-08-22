@@ -1,0 +1,14 @@
+# IntelliJ IDEA configuration files & directories
+.idea/
+*.iml
+*.iws
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Other typical files you might want to ignore
+target/  # for Maven
+build/   # for Gradle
+node_modules/  # for Node.js projects
