@@ -2,36 +2,26 @@ body {
     background: blue;
 }
 
-.boxnr {
-    background: white;
-    width: 100px;
-    height: 100px;
-    left: 50px;
-
-}
-
 .boxtext {
     background: white;
     width: 100px;
     height: 100px;
     left: 50px;
+    bottom: 50px;
 
 }
 
-.containernr {
+.container {
     display: flex;
     gap: 30px;
-    justify-content: center;
-    align-content: center;
-}
-
-.containertext {
-    display: flex;
-    gap: 30px;
-    justify-content: center;
+    justify-content: left;
     align-content: center;
 }
 
 .containerbutton > button {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-content: center;
     top: 50px;
 }
