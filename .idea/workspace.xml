@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64d50cb2-1635-4d0c-99c4-a95043606322" name="Changes" comment="Vakker CSS.">
-      <change afterPath="$PROJECT_DIR$/addnumbers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addnumbers.html" afterDir="false" />
+    <list default="true" id="64d50cb2-1635-4d0c-99c4-a95043606322" name="Changes" comment="Addnumbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addnumbers.css" beforeDir="false" afterPath="$PROJECT_DIR$/addnumbers.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addnumbers.html" beforeDir="false" afterPath="$PROJECT_DIR$/addnumbers.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692686099331</updated>
-      <workItem from="1692686100779" duration="585000" />
+      <workItem from="1692686100779" duration="929000" />
     </task>
     <task id="LOCAL−00001" summary="Start">
       <created>1692686278115</created>
@@ -71,7 +71,19 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1692686470145</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="Addnumbers">
+      <created>1692686694381</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1692686694381</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Addnumbers">
+      <created>1692686723404</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1692686723404</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
     <MESSAGE value="Vakker CSS." />
-    <option name="LAST_COMMIT_MESSAGE" value="Vakker CSS." />
+    <MESSAGE value="Addnumbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addnumbers" />
   </component>
 </project>
