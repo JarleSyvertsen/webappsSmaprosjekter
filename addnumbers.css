@@ -19,12 +19,11 @@ body {
     align-content: center;
     bottom: 50px;
 }
-.buttonContainer {
-    margin-top: 20px;
+.containertext {
     display: flex;
-    height: 2rem;
+    gap: 30px;
     justify-content: center;
-    gap: 10px;
+    align-content: center;
 }
 
 .buttonContainer > button {
