@@ -1,5 +1,6 @@
 body {
     background: cornflowerblue;
+    height: 100%;
 }
 
 .box {
@@ -11,8 +12,21 @@ body {
 }
 
 .container {
+
     display: flex;
     gap: 30px;
     justify-content: center;
     align-content: center;
+    bottom: 50px;
+}
+.buttonContainer {
+    margin-top: 20px;
+    display: flex;
+    height: 2rem;
+    justify-content: center;
+    gap: 10px;
+}
+
+.buttonContainer > button {
+    top: 50px;
 }
