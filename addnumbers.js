@@ -10,7 +10,6 @@ function sort() {
 
     sortedValues.sort(function(a, b) {return a - b;});
 
-    console.log(sortedValues);
     valueBoxes.forEach((input) => {
         input.value = sortedValues.shift();
     })
